@@ -1,8 +1,8 @@
-# tensorrt_pose_esimation
+# pure_trt_pose
 
 Pure API of trt_pose.
 
-see more sample in tensorrt_pose_esimation.
+see more sample in [tensorrt_pose_esimation](https://github.com/p513817/tensorrt_pose_esimation).
 
 ---
 
