@@ -1,4 +1,10 @@
-# trt_pose
+# tensorrt_pose_esimation
+
+Pure API of trt_pose.
+
+see more sample in tensorrt_pose_esimation.
+
+---
 
 > Want to detect hand poses?  Check out the new [trt_pose_hand](http://github.com/NVIDIA-AI-IOT/trt_pose_hand) project for real-time hand pose and gesture recognition!
 
